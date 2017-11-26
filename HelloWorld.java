@@ -14,7 +14,7 @@ g.setColor(Color.white);
 g.fillRect(0,0,d.width,d.height);
 g.setColor(Color.black);
 g.setFont(f);
-drawCenteredString("16130567"
+drawCenteredString("Нурмухаметов"
 		+ "16130569"
 		+ "16130029"
 		+ "16130163", d.width, d.height, g);
